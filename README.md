@@ -23,3 +23,4 @@
 - `#rail-boxad-wrapper`：侧栏嵌入广告；
 - `.wds-global-footer`：页面内嵌广告；
 - `.top-ads-container`：顶部广告窗口；
+- `\#incontent_player`：弹出的视频广告；
