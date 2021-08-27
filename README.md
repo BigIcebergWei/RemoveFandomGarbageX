@@ -1,10 +1,9 @@
 ## 基本信息
 
 - English：Remove Fandom Garbage X
-
 - 中文：清爽的Fandom
-
 - Greasy 链接：https://greasyfork.org/zh-CN/scripts/431460-remove-fandom-garbage-x
+- 基于 Fandom-Remove-Garbage 改进。
 
 
 
