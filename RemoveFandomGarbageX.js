@@ -3,7 +3,7 @@
 // @description 简化 Fondom 界面，移除各个广告。
 // @namespace https://greasyfork.org/zh-CN/scripts/431460-remove-fandom-garbage-x
 // @author WeiHengYi
-// @version 2.0.4
+// @version 2.0.5
 // @license GPL-3.0-only
 // @grant GM_addStyle
 // @run-at document-start
@@ -17,7 +17,8 @@
 (function() {
   let css = `
   
-    #mixed-content-footer, .wds-global-footer, #rail-boxad-wrapper, .top-ads-container , #incontent_player {
+    #mixed-content-footer, .wds-global-footer, #rail-boxad-wrapper, .top-ads-container, \
+    #incontent_player, #top_boxad {
       display:none;
     }
   

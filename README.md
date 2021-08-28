@@ -17,10 +17,21 @@
 
 
 
+## 适用网站
+
+主要适用于我所经常浏览的几个Fondom Wiki：
+
+- [Vim Wiki](https://vim.fandom.com/)
+- [Minecraft Wiki](https://minecraft.fandom.com)
+
+
+
 ## 代码分析
 
 - `#mixed-content-footer`：Fandom 底部其他信息；
 - `#rail-boxad-wrapper`：侧栏嵌入广告；
 - `.wds-global-footer`：页面内嵌广告；
 - `.top-ads-container`：顶部广告窗口；
-- `\#incontent_player`：弹出的视频广告；
+- `#incontent_player`：弹出的视频广告；
+- `#top_boxad`：窗口式广告，主要针对谷歌广告；
+
